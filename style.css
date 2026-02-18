@@ -1,6 +1,13 @@
+@font-face {
+  font-family: 'TexGyreTermes';
+  src: url('fonts/tex-gyre-termes-regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   margin: 0;
-  font-family: "Georgia", serif;
+  font-family: "TexGyreTermes", serif;
   background-color: #f5f1e8;
   color: #2c2c2c;
   line-height: 1.6;
