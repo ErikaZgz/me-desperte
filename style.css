@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: "Georgia", serif;
+  background-color: #f5f1e8;
+  color: #2c2c2c;
+  line-height: 1.6;
+}
+
+header {
+  text-align: center;
+  padding: 60px 20px 30px 20px;
+}
+
+header h1 {
+  font-size: 3rem;
+  margin: 0;
+  letter-spacing: 2px;
+}
+
+header p {
+  font-style: italic;
+  opacity: 0.8;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #5a4b3c;
+  font-weight: bold;
+}
+
+nav a:hover {
+  opacity: 0.6;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
